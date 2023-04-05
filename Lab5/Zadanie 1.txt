@@ -1,0 +1,1 @@
+('Wynik dzia³ania a^2+ab+b^2: ', 607)
